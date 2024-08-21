@@ -18,26 +18,6 @@ Data Analysis: I applied statistical techniques and data modeling to identify co
 Insight Generation: I extracted actionable insights from the data, providing recommendations for business improvement and growth.
 Bullet Points:
 
-Data Cleaning and Preprocessing:
-Handled missing values and duplicates in the data
-Corrected errors in data formatting and encoding
-Removed unnecessary columns and rows to optimize data quality
-Data Transformation and Aggregation:
-Utilized pandas to manipulate and transform data
-Created new columns to facilitate analysis
-Aggregated data to reveal trends and patterns
-Data Visualization:
-Created informative and engaging plots using matplotlib
-Visualized data to reveal key trends and patterns
-Utilized visualization to communicate findings and insights
-Data Analysis and Modeling:
-Applied statistical techniques to identify correlations and trends
-Utilized data modeling to forecast future sales and revenue
-Analyzed data to identify areas for business improvement
-Insight Generation and Recommendation:
-Extracted actionable insights from the data
-Provided recommendations for business improvement and growth
-Identified opportunities for cost savings and revenue growth
 Key Findings:
 
 The best month for sales was [insert month] with a total sales amount of [insert amount].
