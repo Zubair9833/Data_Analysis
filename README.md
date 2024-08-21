@@ -2,7 +2,7 @@
 
 Summary: In this project, I demonstrated my expertise in data analysis by working with a large dataset of sales data from an e-commerce platform. I successfully cleaned, processed, and visualized the data to extract valuable insights that can inform business decisions. Through this project, I showcased my ability to work with complex data, identify patterns and trends, and communicate findings in a clear and concise manner.
 
-Objective of project:
+# Objective of project:
 
 Objective 1: Analyzed sales data to determine the best month for sales and the total sales amount for that month.
 
@@ -14,7 +14,7 @@ Objective 4: Found the product that is most often sold together with other produ
 
 Objective 5: Identified the product that has been sold the most using groupby and sum functions.
 
-Key Skills Demonstrated:
+# Key Skills Demonstrated:
 
 Data Cleaning: I effectively handled missing values, removed duplicates, and corrected errors in the data to ensure accuracy and reliability.
 
@@ -27,7 +27,7 @@ Data Analysis: I applied statistical techniques and data modeling to identify co
 Insight Generation: I extracted actionable insights from the data, providing recommendations for business improvement and growth.
 
 
-Key Findings:
+# Key Findings:
 
 
 The best month for sales was [insert month] with a total sales amount of [insert amount].
