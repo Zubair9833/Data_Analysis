@@ -1,4 +1,4 @@
-# Data_Analysis
+#  Sales Data_Analysis
 
 Summary: In this project, I demonstrated my expertise in data analysis by working with a large dataset of sales data from an e-commerce platform. I successfully cleaned, processed, and visualized the data to extract valuable insights that can inform business decisions. Through this project, I showcased my ability to work with complex data, identify patterns and trends, and communicate findings in a clear and concise manner.
 
